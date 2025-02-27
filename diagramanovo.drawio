@@ -541,7 +541,7 @@
             <mxGeometry x="497.5" y="216" width="55" height="30" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="XEE6P7GO6SdHQGkuzCWK-12" value="cadastro de tarefa" style="shape=ext;double=1;rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="XEE6P7GO6SdHQGkuzCWK-12" value="fazer cadastro da tarefa" style="shape=ext;double=1;rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="560" y="130" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="XEE6P7GO6SdHQGkuzCWK-13" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="XEE6P7GO6SdHQGkuzCWK-12">
@@ -562,8 +562,11 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="XEE6P7GO6SdHQGkuzCWK-15" value="cadastro de tarefa" style="shape=ext;double=1;rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="XEE6P7GO6SdHQGkuzCWK-15" value="editar a tarefa" style="shape=ext;double=1;rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="580" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1U80lAUNW5TGW7H0yJw--1" value="&lt;font size=&quot;3&quot;&gt;&lt;b&gt;&lt;u&gt;sistema para gerenciamento&lt;/u&gt;&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;&lt;b&gt;&lt;u&gt;&amp;nbsp;de tarefas&lt;/u&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=#CC00CC;" vertex="1" parent="1">
+          <mxGeometry x="300" y="340" width="233" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
