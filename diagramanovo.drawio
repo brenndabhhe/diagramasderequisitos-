@@ -569,7 +569,7 @@
           <mxGeometry x="300" y="340" width="233" height="100" as="geometry" />
         </mxCell>
         <mxCell id="rvPPa0roGqXbYIvExmKc-1" value="fazer cadastro da tarefa" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="260" y="465" width="140" height="240" as="geometry" />
+          <mxGeometry x="260" y="465" width="140" height="210" as="geometry" />
         </mxCell>
         <mxCell id="rvPPa0roGqXbYIvExmKc-6" value="criar formulário com nome&amp;nbsp;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="rvPPa0roGqXbYIvExmKc-1">
           <mxGeometry y="30" width="140" height="30" as="geometry" />
@@ -588,9 +588,6 @@
         </mxCell>
         <mxCell id="rvPPa0roGqXbYIvExmKc-9" value="responsáveis&amp;nbsp;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="rvPPa0roGqXbYIvExmKc-1">
           <mxGeometry y="180" width="140" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="rvPPa0roGqXbYIvExmKc-10" value="Item 2" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="rvPPa0roGqXbYIvExmKc-1">
-          <mxGeometry y="210" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="rvPPa0roGqXbYIvExmKc-12" value="edição da tarefa&amp;nbsp;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="440" y="465" width="150" height="210" as="geometry" />
