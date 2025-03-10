@@ -636,6 +636,30 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="VnPl6DcIDhIHpvWcBHl_-1" value="personificação do perfil do usuário&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VnPl6DcIDhIHpvWcBHl_-2" value="PERSONALIZAÇÃO DO PERFIL DO USUÁRIO &#xa;INTEGRAÇÃO COM REDES SOCIAIS&#xa;MODO DE REVISÃO&#xa;MODO ANONIMO&#xa;LIMITAÇÃO DE PARTICIPAÇÃO&#xa;TIME" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="200" width="290" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="VnPl6DcIDhIHpvWcBHl_-4" value="integração com redes sociais&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VnPl6DcIDhIHpvWcBHl_-5" value="modo de revisão" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="310" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VnPl6DcIDhIHpvWcBHl_-6" value="modo anônimo" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="380" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VnPl6DcIDhIHpvWcBHl_-7" value="limitação de participação" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="450" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VnPl6DcIDhIHpvWcBHl_-8" value="time" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="525" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VnPl6DcIDhIHpvWcBHl_-9" value="RF015&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;RF016&lt;br/&gt;&lt;br&gt;RF017&lt;br/&gt;&lt;br&gt;RF018&lt;br/&gt;&lt;br&gt;RF019&lt;br/&gt;&lt;br&gt;RF020&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="240" width="70" height="250" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
