@@ -7,13 +7,13 @@
         <mxCell id="ZcK-xEs8XKB6jnWGEz-K-3" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;cliente&lt;/font&gt;&lt;/font&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="130" y="-385" width="50" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="ZcK-xEs8XKB6jnWGEz-K-4" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;solicitar agendamento de evento&lt;/font&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ZcK-xEs8XKB6jnWGEz-K-4" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;verificar disponibilidade de dados&lt;/font&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="-450" width="100" height="65" as="geometry" />
         </mxCell>
-        <mxCell id="ZcK-xEs8XKB6jnWGEz-K-5" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;informar tipo de eventos e numero de participantes&lt;/font&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ZcK-xEs8XKB6jnWGEz-K-5" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;realizar agendamento&lt;/font&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="-370" width="100" height="65" as="geometry" />
         </mxCell>
-        <mxCell id="ZcK-xEs8XKB6jnWGEz-K-6" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;cancelar ate 7 dias antes&lt;/font&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ZcK-xEs8XKB6jnWGEz-K-6" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;cancelar e/ou remarcar&amp;nbsp;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="-295" width="100" height="65" as="geometry" />
         </mxCell>
         <mxCell id="ZcK-xEs8XKB6jnWGEz-K-7" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
@@ -131,45 +131,6 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="640" y="40" as="sourcePoint" />
             <mxPoint x="680" y="10" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="ZcK-xEs8XKB6jnWGEz-K-36" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;casos do sistema&lt;/font&gt;&lt;/font&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="389" y="360" width="50" height="90" as="geometry" />
-        </mxCell>
-        <mxCell id="ZcK-xEs8XKB6jnWGEz-K-37" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;coletar e verificar CPF e CNPJ&lt;/font&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="230" y="395" width="100" height="65" as="geometry" />
-        </mxCell>
-        <mxCell id="ZcK-xEs8XKB6jnWGEz-K-38" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;garantir segurança dos dados&amp;nbsp;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="280" y="290" width="100" height="65" as="geometry" />
-        </mxCell>
-        <mxCell id="ZcK-xEs8XKB6jnWGEz-K-39" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;permitir pagamento via pix e cartão&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="450" y="290" width="100" height="65" as="geometry" />
-        </mxCell>
-        <mxCell id="ZcK-xEs8XKB6jnWGEz-K-40" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;permitir cancelamento com no mínimo 7 dias&amp;nbsp;&lt;/font&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="490" y="395" width="100" height="65" as="geometry" />
-        </mxCell>
-        <mxCell id="ZcK-xEs8XKB6jnWGEz-K-42" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="440" y="370" as="sourcePoint" />
-            <mxPoint x="480" y="350" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="ZcK-xEs8XKB6jnWGEz-K-43" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="440" y="410" as="sourcePoint" />
-            <mxPoint x="490" y="420" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="ZcK-xEs8XKB6jnWGEz-K-44" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" target="ZcK-xEs8XKB6jnWGEz-K-36">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="370" y="340" as="sourcePoint" />
-            <mxPoint x="390" y="350" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="ZcK-xEs8XKB6jnWGEz-K-45" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" target="ZcK-xEs8XKB6jnWGEz-K-36">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="330" y="420" as="sourcePoint" />
-            <mxPoint x="380" y="370" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
